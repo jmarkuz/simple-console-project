@@ -1,14 +1,14 @@
 # test-project
-Создать консольное приложение, удовлетворяющее следующим требованиям:
+Create a console application that meets the following requirements:
 
-1.	Использовать возможности ООП: классы, наследование, полиморфизм, инкапсуляция.
-2.	Каждый класс должен иметь исчерпывающее смысл название и информативный состав.
-3.	Наследование должно применяться только тогда, когда это имеет смысл.
-4.	При кодировании должны быть использованы соглашения об оформлении кода java code convention.
-5.	Классы должны быть грамотно разложены по пакетам.
-6.	Работа с консолью или консольное меню должно быть минимальным.
+1. Use OOP features: classes, inheritance, polymorphism, and encapsulation.
+2. Each class must have a comprehensive name and informative content.
+3. Inheritance should only be used when it makes sense.
+4. When coding, java code conventions must be used.
+5. Classes must be properly divided into packages.
+6. Working with the console or console menu should be minimal.
 
-Задание:
-Определить иерархию овощей. Сделать салат. Посчитать калорийность.
-Провести сортировку овощей для салата на основе одного из параметров.
-Найти овощи в салате, соответствующие заданному диапазону калорийности.
+Exercise:
+- Determine the hierarchy of vegetables. Make a salad. Calculate calories.
+- Sort vegetables for a salad based on one of the parameters.
+- Find vegetables in the salad that fall within a given calorie range.
