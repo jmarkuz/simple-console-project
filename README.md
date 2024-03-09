@@ -1,4 +1,4 @@
-# test-project
+# Simple console project (salad master-chef)
 Create a console application that meets the following requirements:
 
 1. Use OOP features: classes, inheritance, polymorphism, and encapsulation.
